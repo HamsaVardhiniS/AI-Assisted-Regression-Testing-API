@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Model artifacts
+models/*.pkl
+
+# Generated baseline files
+baseline/*.json
+data/*.csv
+
+# OS / Editor
+.vscode/
+.DS_Store
